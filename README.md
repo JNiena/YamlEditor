@@ -1,7 +1,7 @@
 # YamlEditor
 #### A simple copy-paste library to edit many YAML keys at once.
 
-# Usage
+## Usage
 ```java
 public class Main {
   public static void main(String[] args) {
